@@ -380,7 +380,7 @@ To enable/disable suspend mode, navigate using keyboard or remote or mouse to th
   - on mouse, Left click
   - on remote, press OK button
 ### To enable/disable Suspend mode
-  - Open "Options" on the top right corner
+  - Open "Controls" on the top right corner
   - Navigate to enable/disable Suspend mode. To enable/disable,
     - Press Enter on keyboard
     - Press OK on remote
@@ -788,4 +788,3 @@ Select Options:
 4) Exit
 
 ```
-
