@@ -1,4 +1,3 @@
-# dummy
 Firebolt SDK version 0.3
 ===================
 - [Introduction](#intro)
@@ -392,13 +391,12 @@ To enable/disable suspend mode, navigate using keyboard or remote or mouse to th
 ### To launch, suspend, resume, stop an app,
   - navigate to the app
   - Launch the app by pressing "Enter" key on keyboard or "OK" on remote, or "Left click" on mouse.
-  - To Suspend/Stop/go back to App menu running the app in background,
-    press "Ctrl+m" on keyboard/"Xfinity key" on remote to display the options Suspend/Stop/Home.
-    Select any option.
+  - To view the options Suspend/Stop/Home(go back to App menu running the app in background),
+    press "Ctrl+m" on keyboard/"Xfinity key" on remote. Select any option.
   - When the app is "Suspended", launch the app from the App menu to see the options, Resume/Stop.
     Select "Resume" to resume the app/"Stop" to stop the app.
 ### App status on App menu
-  - Apps running the in background, display green play symbol on the app icon.
+  - Apps running in the background, display green play symbol on the app icon.
   - Apps suspended, display orange pause symbol on the app icon.
   - Apps stopped, display grey stop symbol on the app icon.
 
